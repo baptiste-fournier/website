@@ -1,0 +1,17 @@
+.btn-blue {
+	background-color: #E10600;
+	color: white;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+	border-radius: 4px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	margin-left: 50px;
+}
+
+#quizz {
+	margin-top: 50px;
+	margin-left: 160px;
+}
